@@ -1,0 +1,2 @@
+# wtsget
+ pt转wts
